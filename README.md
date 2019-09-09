@@ -18,4 +18,10 @@ The landing page consists of basically three parts:
 
   - _right side_: __contact (mailto)__, Facebook, Twitter, Reddit, Discord & Telegram
 
+- Analytics
+
+  - __[Matomo](https://matomo.org/)__, [Fathom Analytics](https://usefathom.com/), [Ackee](https://github.com/electerious/Ackee) and/or [Google Analytics](https://www.analytics.google.com)
+
 Necessary parts are written in __bold__. Other stuff is optional.
+
+
